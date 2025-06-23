@@ -1,0 +1,4 @@
+# Optional cleanup
+*.pt
+*.pth
+weights/
